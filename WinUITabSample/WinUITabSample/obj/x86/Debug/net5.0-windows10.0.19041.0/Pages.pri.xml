@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="Pages" version="1.0" primary="true">
+		<Qualifiers/>
+		<ResourceMapSubtree name="Files">
+			<ResourceMapSubtree name="Pages">
+				<NamedResource name="SPage.xbf" uri="ms-resource://Pages/Files/Pages/SPage.xbf">
+					<Candidate type="Path">
+						<Value>Pages\SPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="WPage.xbf" uri="ms-resource://Pages/Files/Pages/WPage.xbf">
+					<Candidate type="Path">
+						<Value>Pages\WPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

@@ -1,0 +1,14 @@
+D:\Development\GitHub\WinUITabSample\ViewModel\ViewModelInterfaces\bin\Debug\net6.0\ViewModelInterfaces.deps.json
+D:\Development\GitHub\WinUITabSample\ViewModel\ViewModelInterfaces\bin\Debug\net6.0\ViewModelInterfaces.dll
+D:\Development\GitHub\WinUITabSample\ViewModel\ViewModelInterfaces\bin\Debug\net6.0\ref\ViewModelInterfaces.dll
+D:\Development\GitHub\WinUITabSample\ViewModel\ViewModelInterfaces\bin\Debug\net6.0\ViewModelInterfaces.pdb
+D:\Development\GitHub\WinUITabSample\ViewModel\ViewModelInterfaces\obj\Debug\net6.0\ViewModelInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\GitHub\WinUITabSample\ViewModel\ViewModelInterfaces\obj\Debug\net6.0\ViewModelInterfaces.AssemblyInfoInputs.cache
+D:\Development\GitHub\WinUITabSample\ViewModel\ViewModelInterfaces\obj\Debug\net6.0\ViewModelInterfaces.AssemblyInfo.cs
+D:\Development\GitHub\WinUITabSample\ViewModel\ViewModelInterfaces\obj\Debug\net6.0\ViewModelInterfaces.csproj.CoreCompileInputs.cache
+D:\Development\GitHub\WinUITabSample\ViewModel\ViewModelInterfaces\obj\Debug\net6.0\ViewModelInterfaces.dll
+D:\Development\GitHub\WinUITabSample\ViewModel\ViewModelInterfaces\obj\Debug\net6.0\ref\ViewModelInterfaces.dll
+D:\Development\GitHub\WinUITabSample\ViewModel\ViewModelInterfaces\obj\Debug\net6.0\ViewModelInterfaces.pdb
+D:\Development\GitHub\WinUITabSample\ViewModel\ViewModelInterfaces\bin\Debug\net6.0\ViewModelInterfaces.xml
+D:\Development\GitHub\WinUITabSample\ViewModel\ViewModelInterfaces\obj\Debug\net6.0\ViewModelInterfaces.xml
+D:\Development\GitHub\WinUITabSample\ViewModel\ViewModelInterfaces\obj\Debug\net6.0\ViewModelInterfaces.csproj.AssemblyReference.cache

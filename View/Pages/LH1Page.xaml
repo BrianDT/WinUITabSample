@@ -1,0 +1,22 @@
+﻿<Page
+    x:Class="WinUITabSample.View.Pages.LH1Page"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:vmi="using:WinUITabSample.ViewModelInterfaces"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="Transparent">
+
+    <Grid>
+        <ItemsControl ItemsSource="{x:Bind VM.Items}">
+            <ItemsControl.ItemTemplate>
+                <DataTemplate x:DataType="vmi:IItem">
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="{x:Bind Name}" />
+                    </StackPanel>
+                </DataTemplate>
+            </ItemsControl.ItemTemplate>
+        </ItemsControl>
+    </Grid>
+</Page>

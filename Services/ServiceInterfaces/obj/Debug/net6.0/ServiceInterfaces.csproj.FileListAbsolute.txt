@@ -1,0 +1,14 @@
+D:\Development\GitHub\WinUITabSample\Services\ServiceInterfaces\bin\Debug\net6.0\ServiceInterfaces.deps.json
+D:\Development\GitHub\WinUITabSample\Services\ServiceInterfaces\bin\Debug\net6.0\ServiceInterfaces.dll
+D:\Development\GitHub\WinUITabSample\Services\ServiceInterfaces\bin\Debug\net6.0\ref\ServiceInterfaces.dll
+D:\Development\GitHub\WinUITabSample\Services\ServiceInterfaces\bin\Debug\net6.0\ServiceInterfaces.pdb
+D:\Development\GitHub\WinUITabSample\Services\ServiceInterfaces\obj\Debug\net6.0\ServiceInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\GitHub\WinUITabSample\Services\ServiceInterfaces\obj\Debug\net6.0\ServiceInterfaces.AssemblyInfoInputs.cache
+D:\Development\GitHub\WinUITabSample\Services\ServiceInterfaces\obj\Debug\net6.0\ServiceInterfaces.AssemblyInfo.cs
+D:\Development\GitHub\WinUITabSample\Services\ServiceInterfaces\obj\Debug\net6.0\ServiceInterfaces.csproj.CoreCompileInputs.cache
+D:\Development\GitHub\WinUITabSample\Services\ServiceInterfaces\obj\Debug\net6.0\ServiceInterfaces.dll
+D:\Development\GitHub\WinUITabSample\Services\ServiceInterfaces\obj\Debug\net6.0\ref\ServiceInterfaces.dll
+D:\Development\GitHub\WinUITabSample\Services\ServiceInterfaces\obj\Debug\net6.0\ServiceInterfaces.pdb
+D:\Development\GitHub\WinUITabSample\Services\ServiceInterfaces\obj\Debug\net6.0\ServiceInterfaces.csproj.AssemblyReference.cache
+D:\Development\GitHub\WinUITabSample\Services\ServiceInterfaces\bin\Debug\net6.0\ServiceInterfaces.xml
+D:\Development\GitHub\WinUITabSample\Services\ServiceInterfaces\obj\Debug\net6.0\ServiceInterfaces.xml

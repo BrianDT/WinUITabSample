@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+Bo9+Zn9IIOgca0UIn6JNg+Ne9pJhtGc9rNmvJljBwupJrO3i9br77rb7kpz3dI1mHZy0XPkE42AuS/pbrIFvg==",
+  "success": true,
+  "projectFilePath": "D:\\Development\\GitHub\\WinUITabSample\\Services\\ServiceInterfaces\\ServiceInterfaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vsoft\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

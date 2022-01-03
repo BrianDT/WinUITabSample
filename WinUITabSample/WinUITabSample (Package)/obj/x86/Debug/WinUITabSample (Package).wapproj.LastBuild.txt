@@ -1,0 +1,80 @@
+D:\Development\GitHub\WinUITabSample\WinUITabSample\WinUITabSample\bin\x86\Debug\net6.0-windows10.0.19041.0\App.xbf
+D:\Development\GitHub\WinUITabSample\WinUITabSample\WinUITabSample\bin\x86\Debug\net6.0-windows10.0.19041.0\MainWindow.xbf
+D:\Development\GitHub\WinUITabSample\WinUITabSample\WinUITabSample\bin\x86\Debug\net6.0-windows10.0.19041.0\Pages\CPage.xbf
+D:\Development\GitHub\WinUITabSample\WinUITabSample\WinUITabSample\bin\x86\Debug\net6.0-windows10.0.19041.0\Pages\LH1Page.xbf
+D:\Development\GitHub\WinUITabSample\WinUITabSample\WinUITabSample\bin\x86\Debug\net6.0-windows10.0.19041.0\Pages\LH2Page.xbf
+D:\Development\GitHub\WinUITabSample\WinUITabSample\WinUITabSample\bin\x86\Debug\net6.0-windows10.0.19041.0\Pages\S1Page.xbf
+D:\Development\GitHub\WinUITabSample\WinUITabSample\WinUITabSample\bin\x86\Debug\net6.0-windows10.0.19041.0\Pages\S2Page.xbf
+D:\Development\GitHub\WinUITabSample\WinUITabSample\WinUITabSample\bin\x86\Debug\net6.0-windows10.0.19041.0\Pages\T1Page.xbf
+D:\Development\GitHub\WinUITabSample\WinUITabSample\WinUITabSample\bin\x86\Debug\net6.0-windows10.0.19041.0\Pages\T2Page.xbf
+D:\Development\GitHub\WinUITabSample\WinUITabSample\WinUITabSample\bin\x86\Debug\net6.0-windows10.0.19041.0\Pages\WPage.xbf
+C:\Program Files (x86)\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.19041.0\Redist\Debug\x86\ucrtbased.dll
+D:\Development\GitHub\WinUITabSample\WinUITabSample\WinUITabSample (Package)\Images\SplashScreen.scale-200.png
+D:\Development\GitHub\WinUITabSample\WinUITabSample\WinUITabSample (Package)\Images\LockScreenLogo.scale-200.png
+D:\Development\GitHub\WinUITabSample\WinUITabSample\WinUITabSample (Package)\Images\Square150x150Logo.scale-200.png
+D:\Development\GitHub\WinUITabSample\WinUITabSample\WinUITabSample (Package)\Images\Square44x44Logo.scale-200.png
+D:\Development\GitHub\WinUITabSample\WinUITabSample\WinUITabSample (Package)\Images\Square44x44Logo.targetsize-24_altform-unplated.png
+D:\Development\GitHub\WinUITabSample\WinUITabSample\WinUITabSample (Package)\Images\StoreLogo.png
+D:\Development\GitHub\WinUITabSample\WinUITabSample\WinUITabSample (Package)\Images\Wide310x150Logo.scale-200.png
+D:\Development\GitHub\WinUITabSample\WinUITabSample\WinUITabSample (Package)\bin\x86\Debug\resources.pri
+C:\Users\vsoft\.nuget\packages\microsoft.windowsappsdk\1.0.0\lib\net5.0-windows10.0.18362.0\Microsoft.InteractiveExperiences.Projection.dll
+C:\Users\vsoft\.nuget\packages\microsoft.windowsappsdk\1.0.0\lib\net5.0-windows10.0.18362.0\Microsoft.WinUI.dll
+C:\Users\vsoft\.nuget\packages\microsoft.windowsappsdk\1.0.0\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.AppLifecycle.Projection.dll
+C:\Users\vsoft\.nuget\packages\microsoft.windowsappsdk\1.0.0\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+C:\Users\vsoft\.nuget\packages\microsoft.windowsappsdk\1.0.0\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+C:\Users\vsoft\.nuget\packages\microsoft.windowsappsdk\1.0.0\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+C:\Users\vsoft\.nuget\packages\microsoft.windowsappsdk\1.0.0\lib\net5.0-windows10.0.18362.0\Microsoft.Windows.System.Power.Projection.dll
+C:\Users\vsoft\.nuget\packages\microsoft.windowsappsdk\1.0.0\lib\net5.0-windows10.0.18362.0\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+C:\Users\vsoft\.nuget\packages\unity\5.11.10\lib\netcoreapp3.0\Unity.Abstractions.dll
+C:\Users\vsoft\.nuget\packages\unity\5.11.10\lib\netcoreapp3.0\Unity.Container.dll
+C:\Users\vsoft\.nuget\packages\microsoft.windowsappsdk\1.0.0\runtimes\win10-arm64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\vsoft\.nuget\packages\microsoft.windowsappsdk\1.0.0\runtimes\win10-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\vsoft\.nuget\packages\microsoft.windowsappsdk\1.0.0\runtimes\win10-x86\native\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\vsoft\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.22\lib\Microsoft.Windows.SDK.NET.dll
+C:\Users\vsoft\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.22\lib\WinRT.Runtime.dll
+D:\Development\GitHub\WinUITabSample\Services\BackendServices\bin\Debug\net6.0\BackendServices.dll
+D:\Development\GitHub\WinUITabSample\View\Controls\bin\Debug\net6.0-windows10.0.19041.0\Controls.dll
+D:\Development\GitHub\WinUITabSample\Services\Framework.Helpers\bin\Debug\net6.0\Framework.Helpers.dll
+D:\Development\GitHub\WinUITabSample\View\Pages\bin\Debug\net6.0-windows10.0.19041.0\Pages.dll
+D:\Development\GitHub\WinUITabSample\Services\PlatformServices\bin\Debug\net6.0-windows10.0.19041.0\PlatformServices.dll
+D:\Development\GitHub\WinUITabSample\Services\ServiceInterfaces\bin\Debug\net6.0\ServiceInterfaces.dll
+D:\Development\GitHub\WinUITabSample\View\ViewInterfaces\bin\Debug\net6.0\ViewInterfaces.dll
+D:\Development\GitHub\WinUITabSample\ViewModel\ViewModelInterfaces\bin\Debug\net6.0\ViewModelInterfaces.dll
+D:\Development\GitHub\WinUITabSample\ViewModel\ViewModels\bin\Debug\net6.0\ViewModels.dll
+D:\Development\GitHub\WinUITabSample\Services\BackendServices\bin\Debug\net6.0\BackendServices.pdb
+D:\Development\GitHub\WinUITabSample\Services\Framework.Helpers\bin\Debug\net6.0\Framework.Helpers.pdb
+D:\Development\GitHub\WinUITabSample\Services\PlatformServices\bin\Debug\net6.0-windows10.0.19041.0\PlatformServices.pdb
+D:\Development\GitHub\WinUITabSample\Services\PlatformServices\bin\Debug\net6.0-windows10.0.19041.0\PlatformServices.pri
+D:\Development\GitHub\WinUITabSample\Services\ServiceInterfaces\bin\Debug\net6.0\ServiceInterfaces.pdb
+D:\Development\GitHub\WinUITabSample\ViewModel\ViewModelInterfaces\bin\Debug\net6.0\ViewModelInterfaces.pdb
+D:\Development\GitHub\WinUITabSample\ViewModel\ViewModels\bin\Debug\net6.0\ViewModels.pdb
+D:\Development\GitHub\WinUITabSample\View\Controls\bin\Debug\net6.0-windows10.0.19041.0\Controls.pdb
+D:\Development\GitHub\WinUITabSample\View\Controls\bin\Debug\net6.0-windows10.0.19041.0\Controls.pri
+D:\Development\GitHub\WinUITabSample\View\Pages\bin\Debug\net6.0-windows10.0.19041.0\Pages.pdb
+D:\Development\GitHub\WinUITabSample\View\Pages\bin\Debug\net6.0-windows10.0.19041.0\Pages.pri
+D:\Development\GitHub\WinUITabSample\View\ViewInterfaces\bin\Debug\net6.0\ViewInterfaces.pdb
+D:\Development\GitHub\WinUITabSample\WinUITabSample\WinUITabSample\bin\x86\Debug\net6.0-windows10.0.19041.0\WinUITabSample.deps.json
+D:\Development\GitHub\WinUITabSample\View\Pages\bin\Debug\net6.0-windows10.0.19041.0\Pages\CPage.xbf
+D:\Development\GitHub\WinUITabSample\View\Pages\bin\Debug\net6.0-windows10.0.19041.0\Pages\LH1Page.xbf
+D:\Development\GitHub\WinUITabSample\View\Pages\bin\Debug\net6.0-windows10.0.19041.0\Pages\LH2Page.xbf
+D:\Development\GitHub\WinUITabSample\View\Pages\bin\Debug\net6.0-windows10.0.19041.0\Pages\S1Page.xbf
+D:\Development\GitHub\WinUITabSample\View\Pages\bin\Debug\net6.0-windows10.0.19041.0\Pages\S2Page.xbf
+D:\Development\GitHub\WinUITabSample\View\Pages\bin\Debug\net6.0-windows10.0.19041.0\Pages\T1Page.xbf
+D:\Development\GitHub\WinUITabSample\View\Pages\bin\Debug\net6.0-windows10.0.19041.0\Pages\T2Page.xbf
+D:\Development\GitHub\WinUITabSample\View\Pages\bin\Debug\net6.0-windows10.0.19041.0\Pages\WPage.xbf
+D:\Development\GitHub\WinUITabSample\WinUITabSample\WinUITabSample\obj\x86\Debug\net6.0-windows10.0.19041.0\App.xbf
+D:\Development\GitHub\WinUITabSample\WinUITabSample\WinUITabSample\obj\x86\Debug\net6.0-windows10.0.19041.0\MainWindow.xbf
+D:\Development\GitHub\WinUITabSample\View\Pages\obj\Debug\net6.0-windows10.0.19041.0\CPage.xaml
+D:\Development\GitHub\WinUITabSample\View\Pages\obj\Debug\net6.0-windows10.0.19041.0\LH1Page.xaml
+D:\Development\GitHub\WinUITabSample\View\Pages\obj\Debug\net6.0-windows10.0.19041.0\LH2Page.xaml
+D:\Development\GitHub\WinUITabSample\View\Pages\obj\Debug\net6.0-windows10.0.19041.0\S1Page.xaml
+D:\Development\GitHub\WinUITabSample\View\Pages\obj\Debug\net6.0-windows10.0.19041.0\S2Page.xaml
+D:\Development\GitHub\WinUITabSample\View\Pages\obj\Debug\net6.0-windows10.0.19041.0\T1Page.xaml
+D:\Development\GitHub\WinUITabSample\View\Pages\obj\Debug\net6.0-windows10.0.19041.0\T2Page.xaml
+D:\Development\GitHub\WinUITabSample\View\Pages\obj\Debug\net6.0-windows10.0.19041.0\WPage.xaml
+D:\Development\GitHub\WinUITabSample\WinUITabSample\WinUITabSample\obj\x86\Debug\net6.0-windows10.0.19041.0\apphost.exe
+C:\Users\vsoft\.nuget\packages\unity\5.11.10\lib\netcoreapp3.0\Unity.Abstractions.pdb
+C:\Users\vsoft\.nuget\packages\unity\5.11.10\lib\netcoreapp3.0\Unity.Container.pdb
+D:\Development\GitHub\WinUITabSample\WinUITabSample\WinUITabSample\bin\x86\Debug\net6.0-windows10.0.19041.0\WinUITabSample.runtimeconfig.json
+D:\Development\GitHub\WinUITabSample\WinUITabSample\WinUITabSample\bin\x86\Debug\net6.0-windows10.0.19041.0\WinUITabSample.dll
+D:\Development\GitHub\WinUITabSample\WinUITabSample\WinUITabSample\bin\x86\Debug\net6.0-windows10.0.19041.0\WinUITabSample.pdb

@@ -1,0 +1,13 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/DotNetAnalyzers/StyleCopAnalyzers/master/StyleCop.Analyzers/StyleCop.Analyzers/Settings/stylecop.schema.json",
+  "settings": {
+    "documentationRules": {
+      "companyName": "Visual Software Systems Ltd.",
+      "copyrightText": "Copyright (c) {fromYear} - {toYear}. All rights reserved.",
+      "variables": {
+        "fromYear": "2012",
+        "toYear": "2022"
+      }
+    }
+  }
+}

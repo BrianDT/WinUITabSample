@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	  <RootNamespace>WinUITabSample.ViewModels</RootNamespace>
+	  <CodeAnalysisRuleSet>..\..\Vssl.ruleset</CodeAnalysisRuleSet>
+	  <GenerateDocumentationFile>true</GenerateDocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="StyleCop.Analyzers" Version="1.1.118">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Services\Framework.Helpers\Framework.Helpers.csproj" />
+    <ProjectReference Include="..\..\Services\ServiceInterfaces\ServiceInterfaces.csproj" />
+    <ProjectReference Include="..\..\View\ViewInterfaces\ViewInterfaces.csproj" />
+    <ProjectReference Include="..\ViewModelInterfaces\ViewModelInterfaces.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,251 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Pages</name>
+    </assembly>
+    <members>
+        <member name="T:WinUITabSample.View.Pages.CPage">
+            <summary>
+            An empty page that can be used on its own or navigated to within a Frame.
+            </summary>
+        </member>
+        <member name="M:WinUITabSample.View.Pages.CPage.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:WinUITabSample.View.Pages.CPage"/> class
+            </summary>
+        </member>
+        <member name="M:WinUITabSample.View.Pages.CPage.InitializeComponent">
+            <summary>
+            InitializeComponent()
+            </summary>
+        </member>
+        <member name="M:WinUITabSample.View.Pages.CPage.Connect(System.Int32,System.Object)">
+            <summary>
+            Connect()
+            </summary>
+        </member>
+        <member name="M:WinUITabSample.View.Pages.CPage.GetBindingConnector(System.Int32,System.Object)">
+            <summary>
+            GetBindingConnector(int connectionId, object target)
+            </summary>
+        </member>
+        <member name="T:WinUITabSample.View.Pages.LH1Page">
+            <summary>
+            An empty page that can be used on its own or navigated to within a Frame.
+            </summary>
+        </member>
+        <member name="M:WinUITabSample.View.Pages.LH1Page.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:WinUITabSample.View.Pages.LH1Page"/> class
+            Note DataContext is populated by the presenter on navigation.
+            </summary>
+        </member>
+        <member name="P:WinUITabSample.View.Pages.LH1Page.VM">
+            <summary>
+            Gets the viewmodel as an interface.
+            </summary>
+        </member>
+        <member name="M:WinUITabSample.View.Pages.LH1Page.InitializeComponent">
+            <summary>
+            InitializeComponent()
+            </summary>
+        </member>
+        <member name="M:WinUITabSample.View.Pages.LH1Page.Connect(System.Int32,System.Object)">
+            <summary>
+            Connect()
+            </summary>
+        </member>
+        <member name="M:WinUITabSample.View.Pages.LH1Page.GetBindingConnector(System.Int32,System.Object)">
+            <summary>
+            GetBindingConnector(int connectionId, object target)
+            </summary>
+        </member>
+        <member name="T:WinUITabSample.View.Pages.LH2Page">
+            <summary>
+            An empty page that can be used on its own or navigated to within a Frame.
+            </summary>
+        </member>
+        <member name="M:WinUITabSample.View.Pages.LH2Page.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:WinUITabSample.View.Pages.LH2Page"/> class
+            Note DataContext is populated by the presenter on navigation.
+            </summary>
+        </member>
+        <member name="P:WinUITabSample.View.Pages.LH2Page.VM">
+            <summary>
+            Gets the viewmodel as an interface.
+            </summary>
+        </member>
+        <member name="M:WinUITabSample.View.Pages.LH2Page.InitializeComponent">
+            <summary>
+            InitializeComponent()
+            </summary>
+        </member>
+        <member name="M:WinUITabSample.View.Pages.LH2Page.Connect(System.Int32,System.Object)">
+            <summary>
+            Connect()
+            </summary>
+        </member>
+        <member name="M:WinUITabSample.View.Pages.LH2Page.GetBindingConnector(System.Int32,System.Object)">
+            <summary>
+            GetBindingConnector(int connectionId, object target)
+            </summary>
+        </member>
+        <member name="T:WinUITabSample.View.Pages.S1Page">
+            <summary>
+            An empty page that can be used on its own or navigated to within a Frame.
+            </summary>
+        </member>
+        <member name="M:WinUITabSample.View.Pages.S1Page.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:WinUITabSample.View.Pages.S1Page"/> class
+            </summary>
+        </member>
+        <member name="P:WinUITabSample.View.Pages.S1Page.VM">
+            <summary>
+            Gets the viewmodel as an interface.
+            </summary>
+        </member>
+        <member name="M:WinUITabSample.View.Pages.S1Page.InitializeComponent">
+            <summary>
+            InitializeComponent()
+            </summary>
+        </member>
+        <member name="M:WinUITabSample.View.Pages.S1Page.Connect(System.Int32,System.Object)">
+            <summary>
+            Connect()
+            </summary>
+        </member>
+        <member name="M:WinUITabSample.View.Pages.S1Page.GetBindingConnector(System.Int32,System.Object)">
+            <summary>
+            GetBindingConnector(int connectionId, object target)
+            </summary>
+        </member>
+        <member name="T:WinUITabSample.View.Pages.S2Page">
+            <summary>
+            An empty page that can be used on its own or navigated to within a Frame.
+            </summary>
+        </member>
+        <member name="M:WinUITabSample.View.Pages.S2Page.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:WinUITabSample.View.Pages.S2Page"/> class
+            </summary>
+        </member>
+        <member name="M:WinUITabSample.View.Pages.S2Page.InitializeComponent">
+            <summary>
+            InitializeComponent()
+            </summary>
+        </member>
+        <member name="M:WinUITabSample.View.Pages.S2Page.Connect(System.Int32,System.Object)">
+            <summary>
+            Connect()
+            </summary>
+        </member>
+        <member name="M:WinUITabSample.View.Pages.S2Page.GetBindingConnector(System.Int32,System.Object)">
+            <summary>
+            GetBindingConnector(int connectionId, object target)
+            </summary>
+        </member>
+        <member name="T:WinUITabSample.View.Pages.T1Page">
+            <summary>
+            An empty page that can be used on its own or navigated to within a Frame.
+            </summary>
+        </member>
+        <member name="M:WinUITabSample.View.Pages.T1Page.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:WinUITabSample.View.Pages.T1Page"/> class
+            </summary>
+        </member>
+        <member name="M:WinUITabSample.View.Pages.T1Page.InitializeComponent">
+            <summary>
+            InitializeComponent()
+            </summary>
+        </member>
+        <member name="M:WinUITabSample.View.Pages.T1Page.Connect(System.Int32,System.Object)">
+            <summary>
+            Connect()
+            </summary>
+        </member>
+        <member name="M:WinUITabSample.View.Pages.T1Page.GetBindingConnector(System.Int32,System.Object)">
+            <summary>
+            GetBindingConnector(int connectionId, object target)
+            </summary>
+        </member>
+        <member name="T:WinUITabSample.View.Pages.T2Page">
+            <summary>
+            An empty page that can be used on its own or navigated to within a Frame.
+            </summary>
+        </member>
+        <member name="M:WinUITabSample.View.Pages.T2Page.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:WinUITabSample.View.Pages.T2Page"/> class
+            </summary>
+        </member>
+        <member name="M:WinUITabSample.View.Pages.T2Page.InitializeComponent">
+            <summary>
+            InitializeComponent()
+            </summary>
+        </member>
+        <member name="M:WinUITabSample.View.Pages.T2Page.Connect(System.Int32,System.Object)">
+            <summary>
+            Connect()
+            </summary>
+        </member>
+        <member name="M:WinUITabSample.View.Pages.T2Page.GetBindingConnector(System.Int32,System.Object)">
+            <summary>
+            GetBindingConnector(int connectionId, object target)
+            </summary>
+        </member>
+        <member name="T:WinUITabSample.View.Pages.WPage">
+            <summary>
+            An empty page that can be used on its own or navigated to within a Frame.
+            </summary>
+        </member>
+        <member name="M:WinUITabSample.View.Pages.WPage.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:WinUITabSample.View.Pages.WPage"/> class
+            Note DataContext is populated by the presenter on navigation.
+            </summary>
+        </member>
+        <member name="P:WinUITabSample.View.Pages.WPage.VM">
+            <summary>
+            Gets the viewmodel as an interface.
+            </summary>
+        </member>
+        <member name="M:WinUITabSample.View.Pages.WPage.InitializeComponent">
+            <summary>
+            InitializeComponent()
+            </summary>
+        </member>
+        <member name="M:WinUITabSample.View.Pages.WPage.Connect(System.Int32,System.Object)">
+            <summary>
+            Connect()
+            </summary>
+        </member>
+        <member name="M:WinUITabSample.View.Pages.WPage.GetBindingConnector(System.Int32,System.Object)">
+            <summary>
+            GetBindingConnector(int connectionId, object target)
+            </summary>
+        </member>
+        <member name="T:WinUITabSample.View.Pages.Pages_XamlTypeInfo.XamlMetaDataProvider">
+            <summary>
+            Main class for providing metadata for the app or library
+            </summary>
+        </member>
+        <member name="M:WinUITabSample.View.Pages.Pages_XamlTypeInfo.XamlMetaDataProvider.GetXamlType(System.Type)">
+            <summary>
+            GetXamlType(Type)
+            </summary>
+        </member>
+        <member name="M:WinUITabSample.View.Pages.Pages_XamlTypeInfo.XamlMetaDataProvider.GetXamlType(System.String)">
+            <summary>
+            GetXamlType(String)
+            </summary>
+        </member>
+        <member name="M:WinUITabSample.View.Pages.Pages_XamlTypeInfo.XamlMetaDataProvider.GetXmlnsDefinitions">
+            <summary>
+            GetXmlnsDefinitions()
+            </summary>
+        </member>
+    </members>
+</doc>

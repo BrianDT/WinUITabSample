@@ -1,0 +1,33 @@
+﻿<Page
+    x:Class="WinUITabSample.View.Pages.WPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="Bisque">
+
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBlock Text="The Home Page"/>
+        </StackPanel>
+
+        <!--<TabView x:Name="TabContainer" Grid.Row="1" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" IsAddTabButtonVisible="False">
+            <TabViewItem Header="Item W" Tapped="ItemW_Tapped" />
+            <TabViewItem Header="Item T" Tapped="ItemT_Tapped" />
+            <TabViewItem Header="Item C" />
+            <TabViewItem Header="Item V" />
+            <TabViewItem Header="Item G" />
+            <TabViewItem Header="Item F" />
+            <TabViewItem Header="Item R" />
+
+            <TabView.TabStripHeader>
+                <Grid x:Name="ShellTitlebarInset" Background="Transparent" />
+            </TabView.TabStripHeader>
+            <TabView.TabStripFooter>
+                <Grid x:Name="CustomDragRegion" Background="Transparent" />
+            </TabView.TabStripFooter>
+        </TabView>-->
+    </Grid>
+</Page>

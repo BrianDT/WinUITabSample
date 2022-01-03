@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<PriHeader>
+		<WindowsEnvironment name="WinCore" version="1.2" checksum="1912541329"/>
+		<AutoMerge>false</AutoMerge>
+		<IsDeploymentMergeable>true</IsDeploymentMergeable>
+		<TargetOS version="10.0.0"/>
+		<ReverseMap>false</ReverseMap>
+	</PriHeader>
+	<QualifierInfo>
+		<Qualifiers/>
+		<QualifierSets/>
+		<Decisions/>
+	</QualifierInfo>
+	<ResourceMap name="Pages" primary="true" uniqueName="ms-appx://Pages/" version="1.0">
+		<VersionInfo version="1.0" checksum="520809950" numScopes="3" numItems="2"/>
+		<ResourceMapSubtree index="1" name="Files">
+			<ResourceMapSubtree index="2" name="Pages">
+				<NamedResource name="SPage.xbf" index="0" uri="ms-resource://Pages/Files/Pages/SPage.xbf">
+					<Decision index="1">
+						<QualifierSet index="0"/>
+					</Decision>
+					<Candidate type="Path">
+						<QualifierSet index="0"/>
+						<Value>Pages\SPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="WPage.xbf" index="1" uri="ms-resource://Pages/Files/Pages/WPage.xbf">
+					<Decision index="1">
+						<QualifierSet index="0"/>
+					</Decision>
+					<Candidate type="Path">
+						<QualifierSet index="0"/>
+						<Value>Pages\WPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

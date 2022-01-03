@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TqUG1oHQZ25Aglk8oavBNMkz0ojij8x6INCBZbe5OQXkHM0T/gkSNoPIDs13z0smeTL5yzR0asx5rJS/Zlw0DA==",
+  "success": true,
+  "projectFilePath": "D:\\Development\\GitHub\\WinUITabSample\\ViewModel\\ViewModels\\ViewModels.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vsoft\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}

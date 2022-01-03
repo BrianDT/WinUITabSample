@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows10.0.19041.0</TargetFramework>
+    <TargetPlatformMinVersion>10.0.17763.0</TargetPlatformMinVersion>
+    <RootNamespace>WinUITabSample</RootNamespace>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <Platforms>x86;x64;arm64</Platforms>
+    <RuntimeIdentifiers>win10-x86;win10-x64;win10-arm64</RuntimeIdentifiers>
+    <UseWinUI>true</UseWinUI>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.WindowsAppSDK" Version="1.0.0" />
+    <PackageReference Include="Microsoft.Windows.SDK.BuildTools" Version="10.0.22000.194" />
+    <PackageReference Include="StyleCop.Analyzers" Version="1.1.118">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <Manifest Include="$(ApplicationManifest)" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Services\BackendServices\BackendServices.csproj" />
+    <ProjectReference Include="..\..\Services\Framework.Helpers\Framework.Helpers.csproj" />
+    <ProjectReference Include="..\..\Services\PlatformServices\PlatformServices.csproj" />
+    <ProjectReference Include="..\..\Services\ServiceInterfaces\ServiceInterfaces.csproj" />
+    <ProjectReference Include="..\..\ViewModel\ViewModelInterfaces\ViewModelInterfaces.csproj" />
+    <ProjectReference Include="..\..\ViewModel\ViewModels\ViewModels.csproj" />
+    <ProjectReference Include="..\..\View\Controls\Controls.csproj" />
+    <ProjectReference Include="..\..\View\Pages\Pages.csproj" />
+  </ItemGroup>
+</Project>

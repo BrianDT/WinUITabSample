@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d532270a-7371-4979-9e3f-9b0a41fe3b2c": {
+      "ProjectGuid": "d532270a-7371-4979-9e3f-9b0a41fe3b2c",
+      "DisplayName": "WinUITabSample (Package)",
+      "ColorIndex": 0
+    },
+    "a94a5f3c-ebf2-4b8d-9c03-44f2b6755a45": {
+      "ProjectGuid": "a94a5f3c-ebf2-4b8d-9c03-44f2b6755a45",
+      "DisplayName": "WinUITabSample",
+      "ColorIndex": 1
+    },
+    "74592fe6-7b0b-433e-8b73-5217e147215c": {
+      "ProjectGuid": "74592fe6-7b0b-433e-8b73-5217e147215c",
+      "DisplayName": "Pages",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "194ec83e-8e7a-41e7-90fa-31808293325b": {
+      "ProjectGuid": "194ec83e-8e7a-41e7-90fa-31808293325b",
+      "DisplayName": "Controls",
+      "ColorIndex": 3
+    },
+    "2b38ebd5-310f-432f-a615-02d524516e2e": {
+      "ProjectGuid": "2b38ebd5-310f-432f-a615-02d524516e2e",
+      "DisplayName": "BackendServices",
+      "ColorIndex": 4
+    },
+    "3e6f1a98-91a0-4cdc-8787-54e9be10209d": {
+      "ProjectGuid": "3e6f1a98-91a0-4cdc-8787-54e9be10209d",
+      "DisplayName": "ServiceInterfaces",
+      "ColorIndex": 5
+    },
+    "574a0440-d89d-4963-8202-1f835424f33f": {
+      "ProjectGuid": "574a0440-d89d-4963-8202-1f835424f33f",
+      "DisplayName": "Framework.Helpers",
+      "ColorIndex": 6
+    },
+    "3e326e4b-0d00-4e96-b367-0a4db92deb17": {
+      "ProjectGuid": "3e326e4b-0d00-4e96-b367-0a4db92deb17",
+      "DisplayName": "ViewModelInterfaces",
+      "ColorIndex": 7
+    },
+    "aa61dee0-8672-494a-b052-6cee91dd5cc2": {
+      "ProjectGuid": "aa61dee0-8672-494a-b052-6cee91dd5cc2",
+      "DisplayName": "ViewModels",
+      "ColorIndex": 8
+    },
+    "fc6cfc28-85eb-402b-bff8-2b792e4bad79": {
+      "ProjectGuid": "fc6cfc28-85eb-402b-bff8-2b792e4bad79",
+      "DisplayName": "PlatformServices",
+      "ColorIndex": 9
+    },
+    "6a89e606-efd3-4186-9cc4-9f23bffcc3cc": {
+      "ProjectGuid": "6a89e606-efd3-4186-9cc4-9f23bffcc3cc",
+      "DisplayName": "ViewInterfaces",
+      "ColorIndex": 10
+    },
+    "40d8f27d-606f-4e83-9335-67d023fed41d": {
+      "ProjectGuid": "40d8f27d-606f-4e83-9335-67d023fed41d",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 11
+    }
+  },
+  "NextColorIndex": 12
+}

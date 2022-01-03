@@ -1,0 +1,165 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BackendServices</name>
+    </assembly>
+    <members>
+        <member name="T:WinUITabSample.Services.BackendServices.LoggingService">
+            <summary>
+            Cut down loggin service.
+            </summary>
+        </member>
+        <member name="M:WinUITabSample.Services.BackendServices.LoggingService.AuditEvent(System.String,System.Int32)">
+            <summary>
+            Log an event.
+            </summary>
+            <param name="message">The message</param>
+            <param name="code">The code</param>
+        </member>
+        <member name="T:WinUITabSample.Services.BackendServices.MessageService">
+            <summary>
+            The message service
+            </summary>
+        </member>
+        <member name="E:WinUITabSample.Services.BackendServices.MessageService.NewMessage">
+            <summary>
+            Notifies that a new message has been received
+            </summary>
+        </member>
+        <member name="M:WinUITabSample.Services.BackendServices.MessageService.Notify(System.String)">
+            <summary>
+            Notify a message to the service
+            </summary>
+            <param name="messge">The message</param>
+        </member>
+        <member name="T:Vssl.VisualFramework.Services.PagePresenter">
+            <summary>
+            Controls the mapping between pages and their view models.
+            </summary>
+        </member>
+        <member name="F:Vssl.VisualFramework.Services.PagePresenter.dependencyResolver">
+            <summary>
+            The dependency injection resolution helper.
+            </summary>
+        </member>
+        <member name="F:Vssl.VisualFramework.Services.PagePresenter.loggingService">
+            <summary>
+            Interface to the logging service.
+            </summary>
+        </member>
+        <member name="F:Vssl.VisualFramework.Services.PagePresenter.registery">
+            <summary>
+            The index of pages and view model interface types.
+            </summary>
+        </member>
+        <member name="F:Vssl.VisualFramework.Services.PagePresenter.populatedViewModels">
+            <summary>
+            The index of populated view models.
+            </summary>
+        </member>
+        <member name="M:Vssl.VisualFramework.Services.PagePresenter.#ctor(Vssl.Samples.FrameworkInterfaces.IDependencyResolver,WinUITabSample.Services.ServiceInterfaces.ILogging)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Vssl.VisualFramework.Services.PagePresenter"/> class
+            </summary>
+            <param name="dependencyResolver">The dependency injection resolution helper</param>
+            <param name="loggingService">Interface to the logging service</param>
+        </member>
+        <member name="M:Vssl.VisualFramework.Services.PagePresenter.Register(System.Type,System.Type)">
+            <summary>
+            Add a page and view model interface type pair to the index.
+            </summary>
+            <param name="pageType">The type of the view page</param>
+            <param name="viewModelInterface">The type of the view model interface</param>
+        </member>
+        <member name="M:Vssl.VisualFramework.Services.PagePresenter.Resolve(System.Type)">
+            <summary>
+            Find view model interface type in the registry given the page type.
+            </summary>
+            <param name="pageType">The type of the view page</param>
+            <returns>The type of the matching view model interface</returns>
+        </member>
+        <member name="M:Vssl.VisualFramework.Services.PagePresenter.LocateDataContext(System.Type,System.Guid)">
+            <summary>
+            Find the view model data context based on the key provided and the mappings in the presenter
+            </summary>
+            <param name="sourcePageType">The type of the destination page</param>
+            <param name="key">The context key</param>
+            <returns>The view model</returns>
+        </member>
+        <member name="M:Vssl.VisualFramework.Services.PagePresenter.LoadDataContext(System.Type,System.Guid)">
+            <summary>
+            Find the view model data context based on the key provided and the view model interface.
+            </summary>
+            <param name="viewModelInterface">The type view model interface</param>
+            <param name="key">The context key</param>
+            <returns>The view model</returns>
+        </member>
+        <member name="M:Vssl.VisualFramework.Services.PagePresenter.Cache(System.Type,System.Guid,System.ComponentModel.INotifyPropertyChanged)">
+            <summary>
+            Caches the view model associated with the given key
+            </summary>
+            <param name="viewmodelType">The type of the view model</param>
+            <param name="key">The key</param>
+            <param name="viewmodel">The view model</param>
+        </member>
+        <member name="M:Vssl.VisualFramework.Services.PagePresenter.UnCache(System.Type,System.Guid)">
+            <summary>
+            Un-caches the view model for the requested key
+            </summary>
+            <param name="viewmodelType">The type of the view model</param>
+            <param name="key">The key</param>
+            <returns>The view model if one was present or null</returns>
+        </member>
+        <member name="T:UnityDIFacade.UnityDI">
+            <summary>
+            A Unity implementation of the dependency injection resolution interface.
+            </summary>
+        </member>
+        <member name="F:UnityDIFacade.UnityDI.container">
+            <summary>
+            The unity container
+            </summary>
+        </member>
+        <member name="M:UnityDIFacade.UnityDI.#ctor(Unity.IUnityContainer)">
+            <summary>
+            Initializes a new instance of the <see cref="T:UnityDIFacade.UnityDI" /> class.
+            </summary>
+            <param name="container">The Unity container</param>
+        </member>
+        <member name="M:UnityDIFacade.UnityDI.Resolve``1">
+            <summary>
+            Gets the type mapping from the unity container
+            </summary>
+            <typeparam name="InterfaceType">The registered interface type</typeparam>
+            <returns>The mapped type</returns>
+        </member>
+        <member name="M:UnityDIFacade.UnityDI.Resolve(System.Type)">
+            <summary>
+            Gets the type mapping from the unity container
+            </summary>
+            <param name="interfaceType">The registered interface type</param>
+            <returns>The mapped type</returns>
+        </member>
+        <member name="M:UnityDIFacade.UnityDI.Register``2">
+            <summary>
+            Registers a class and its interface
+            </summary>
+            <typeparam name="T">The type of the interface</typeparam>
+            <typeparam name="U">The type of the class</typeparam>
+        </member>
+        <member name="M:UnityDIFacade.UnityDI.RegisterSingleton``2">
+            <summary>
+            Registers a class as a singleton
+            </summary>
+            <typeparam name="T">The type of the interface</typeparam>
+            <typeparam name="U">The type of the class</typeparam>
+        </member>
+        <member name="M:UnityDIFacade.UnityDI.GetMappedType(System.Type)">
+            <summary>
+            Gets the mapped type from the container given the registered type
+            </summary>
+            <param name="interfaceType">The registered interface type</param>
+            <returns>The mapped type</returns>
+        </member>
+    </members>
+</doc>

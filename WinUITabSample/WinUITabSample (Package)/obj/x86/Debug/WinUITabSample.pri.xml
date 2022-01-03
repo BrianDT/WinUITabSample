@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="WinUITabSample" version="1.0" primary="true">
+		<Qualifiers/>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://WinUITabSample/Files/App.xbf">
+				<Candidate type="Path">
+					<Value>App.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainWindow.xbf" uri="ms-resource://WinUITabSample/Files/MainWindow.xbf">
+				<Candidate type="Path">
+					<Value>MainWindow.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Pages">
+				<NamedResource name="CPage.xbf" uri="ms-resource://WinUITabSample/Files/Pages/CPage.xbf">
+					<Candidate type="Path">
+						<Value>Pages\CPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="LH1Page.xbf" uri="ms-resource://WinUITabSample/Files/Pages/LH1Page.xbf">
+					<Candidate type="Path">
+						<Value>Pages\LH1Page.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="LH2Page.xbf" uri="ms-resource://WinUITabSample/Files/Pages/LH2Page.xbf">
+					<Candidate type="Path">
+						<Value>Pages\LH2Page.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="S1Page.xbf" uri="ms-resource://WinUITabSample/Files/Pages/S1Page.xbf">
+					<Candidate type="Path">
+						<Value>Pages\S1Page.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="S2Page.xbf" uri="ms-resource://WinUITabSample/Files/Pages/S2Page.xbf">
+					<Candidate type="Path">
+						<Value>Pages\S2Page.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="T1Page.xbf" uri="ms-resource://WinUITabSample/Files/Pages/T1Page.xbf">
+					<Candidate type="Path">
+						<Value>Pages\T1Page.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="T2Page.xbf" uri="ms-resource://WinUITabSample/Files/Pages/T2Page.xbf">
+					<Candidate type="Path">
+						<Value>Pages\T2Page.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="WPage.xbf" uri="ms-resource://WinUITabSample/Files/Pages/WPage.xbf">
+					<Candidate type="Path">
+						<Value>Pages\WPage.xbf</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>
